@@ -1,5 +1,5 @@
 # Proeject code  
-This is the independent project for predicting cancer patients' respond to immunotherapy. 
+This is the research project for predicting cancer patients' respond to immunotherapy. 
 
 two novel machine learning methods are explored in this project,
 pairwise-kernel SVM and Autoencoder, as classifiers to predict the response to anti-
