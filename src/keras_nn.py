@@ -13,8 +13,10 @@ from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
 import keras.backend as K
 #import main 
-
 #import all_Y labels, test_idx, total_X, X_counts  
+
+#Keras version of this project was the old one, will update with PyTorch version. 
+
 
 def my_loss_function(X, X_recon):
 	
